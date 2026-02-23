@@ -22,10 +22,20 @@ This repository provides the **complete, ready-to-run build of Redriver2** compi
 
 ### 📥 Installation
 
-1. Download the latest release from the **[Releases](../../releases)** tab
-2. Extract the `.zip` archive anywhere on your PC
-3. Launch `redriver2.exe`
-4. That's it — no installer, no setup wizard
+This build is split into two parts:
+
+**Step 1 — Create a folder** for the game anywhere on your PC (e.g. `C:\Redriver2`)
+
+**Step 2 — Game files (DRIVER2 folder + install files)**
+> 📦 Download from Internet Archive: **[driver2folder](https://archive.org/details/driver2folder)**
+1. Download the archive
+2. Extract its contents **directly into your game folder** — the `DRIVER2` folder and all other files should sit at the root alongside the `.exe`
+
+**Step 3 — Executable & config**
+> 📦 Download from the **[Releases](../../releases)** tab of this repo
+1. Extract the `.zip` **into the same game folder**
+2. Launch `redriver2.exe`
+3. That's it — no installer, no setup wizard
 
 > 💡 If you plan to use the cheat table, make sure to grab it from the **[Hipo Cheat Table repo](https://github.com/levraihipo-dot/redriver2-hipo-cheat-table/tree/main)** and follow its own instructions.
 
@@ -54,10 +64,20 @@ Ce dépôt fournit le **build complet et prêt à l'emploi de Redriver2**, compi
 
 ### 📥 Installation
 
-1. Télécharge la dernière version depuis l'onglet **[Releases](../../releases)**
-2. Extrais l'archive `.zip` où tu veux sur ton PC
-3. Lance `redriver2.exe`
-4. C'est tout — pas d'installateur, pas de configuration
+Le build est en deux parties :
+
+**Étape 1 — Crée un dossier** pour le jeu où tu veux sur ton PC (ex: `C:\Redriver2`)
+
+**Étape 2 — Fichiers du jeu (dossier DRIVER2 + fichiers d'install)**
+> 📦 Télécharge depuis Internet Archive : **[driver2folder](https://archive.org/details/driver2folder)**
+1. Télécharge l'archive
+2. Extrais son contenu **directement dans ton dossier de jeu** — le dossier `DRIVER2` et tous les autres fichiers doivent se trouver à la racine, au même niveau que le `.exe`
+
+**Étape 3 — Exécutable & config**
+> 📦 Télécharge depuis l'onglet **[Releases](../../releases)** de ce repo
+1. Extrais le `.zip` **dans le même dossier de jeu**
+2. Lance `redriver2.exe`
+3. C'est tout — pas d'installateur, pas de configuration
 
 > 💡 Si tu comptes utiliser la cheat table, récupère-la depuis le **[repo Hipo Cheat Table](https://github.com/levraihipo-dot/redriver2-hipo-cheat-table/tree/main)** et suis ses propres instructions.
 
