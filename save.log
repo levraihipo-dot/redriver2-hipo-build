@@ -1,0 +1,259 @@
+jPSXdec: PSX media decoder (non-commercial) v1.05 (beta)
+Windows 10 10.0
+Java 24.0.2
+21 févr. 2026, 11:20:15
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:341|ID:DRIVER2/XA/XABNK01.XA[0]|Sectors:57338-59362|Type:XA|File:1|Channel:0|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK01.XA[0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:342|ID:DRIVER2/XA/XABNK01.XA[1]|Sectors:57339-57947|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK01.XA[1].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:343|ID:DRIVER2/XA/XABNK01.XA[2]|Sectors:57340-57868|Type:XA|File:1|Channel:2|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK01.XA[2].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:344|ID:DRIVER2/XA/XABNK01.XA[3]|Sectors:57341-57965|Type:XA|File:1|Channel:3|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK01.XA[3].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:345|ID:DRIVER2/XA/XABNK01.XA[4]|Sectors:57342-58310|Type:XA|File:1|Channel:4|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK01.XA[4].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:346|ID:DRIVER2/XA/XABNK01.XA[5]|Sectors:57343-57567|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK01.XA[5].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:347|ID:DRIVER2/XA/XABNK01.XA[6]|Sectors:57344-58040|Type:XA|File:1|Channel:6|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK01.XA[6].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:348|ID:DRIVER2/XA/XABNK01.XA[7]|Sectors:57345-58921|Type:XA|File:1|Channel:7|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK01.XA[7].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:350|ID:DRIVER2/XA/XABNK02.XA[0]|Sectors:59402-60266|Type:XA|File:1|Channel:0|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK02.XA[0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:351|ID:DRIVER2/XA/XABNK02.XA[1]|Sectors:59403-60131|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK02.XA[1].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:352|ID:DRIVER2/XA/XABNK02.XA[2]|Sectors:59404-60732|Type:XA|File:1|Channel:2|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK02.XA[2].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:353|ID:DRIVER2/XA/XABNK02.XA[3]|Sectors:59405-60589|Type:XA|File:1|Channel:3|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK02.XA[3].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:354|ID:DRIVER2/XA/XABNK02.XA[4]|Sectors:59406-61366|Type:XA|File:1|Channel:4|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK02.XA[4].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:355|ID:DRIVER2/XA/XABNK02.XA[5]|Sectors:59407-61343|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK02.XA[5].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:356|ID:DRIVER2/XA/XABNK02.XA[6]|Sectors:59408-61112|Type:XA|File:1|Channel:6|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK02.XA[6].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:357|ID:DRIVER2/XA/XABNK02.XA[7]|Sectors:59409-61633|Type:XA|File:1|Channel:7|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK02.XA[7].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:359|ID:DRIVER2/XA/XABNK03.XA[0]|Sectors:61666-63218|Type:XA|File:1|Channel:0|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK03.XA[0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:360|ID:DRIVER2/XA/XABNK03.XA[1]|Sectors:61667-63539|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK03.XA[1].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:361|ID:DRIVER2/XA/XABNK03.XA[2]|Sectors:61668-62772|Type:XA|File:1|Channel:2|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK03.XA[2].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:362|ID:DRIVER2/XA/XABNK03.XA[3]|Sectors:61669-63605|Type:XA|File:1|Channel:3|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK03.XA[3].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:363|ID:DRIVER2/XA/XABNK03.XA[4]|Sectors:61670-62718|Type:XA|File:1|Channel:4|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK03.XA[4].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:364|ID:DRIVER2/XA/XABNK03.XA[5]|Sectors:61671-64015|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK03.XA[5].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:365|ID:DRIVER2/XA/XABNK03.XA[6]|Sectors:61672-63200|Type:XA|File:1|Channel:6|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK03.XA[6].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:366|ID:DRIVER2/XA/XABNK03.XA[7]|Sectors:61673-63665|Type:XA|File:1|Channel:7|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK03.XA[7].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:368|ID:DRIVER2/XA/XABNK04.XA[0]|Sectors:64050-65306|Type:XA|File:1|Channel:0|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK04.XA[0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:369|ID:DRIVER2/XA/XABNK04.XA[1]|Sectors:64051-64051|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:-1|Disc speed:?
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK04.XA[1].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:370|ID:DRIVER2/XA/XABNK04.XA[2]|Sectors:64052-64052|Type:XA|File:1|Channel:2|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:-1|Disc speed:?
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK04.XA[2].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:371|ID:DRIVER2/XA/XABNK04.XA[3]|Sectors:64053-64053|Type:XA|File:1|Channel:3|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:-1|Disc speed:?
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK04.XA[3].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:372|ID:DRIVER2/XA/XABNK04.XA[4]|Sectors:64054-64054|Type:XA|File:1|Channel:4|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:-1|Disc speed:?
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK04.XA[4].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:373|ID:DRIVER2/XA/XABNK04.XA[5]|Sectors:64055-64055|Type:XA|File:1|Channel:5|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:-1|Disc speed:?
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK04.XA[5].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:374|ID:DRIVER2/XA/XABNK04.XA[6]|Sectors:64056-64056|Type:XA|File:1|Channel:6|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:-1|Disc speed:?
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK04.XA[6].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:375|ID:DRIVER2/XA/XABNK04.XA[7]|Sectors:64057-64057|Type:XA|File:1|Channel:7|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:-1|Disc speed:?
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\XA\XABNK04.XA[7].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:392|ID:DRIVER2/FMV/0/RENDER0.STR[0.0]|Sectors:66240-76832|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\0\RENDER0.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:396|ID:DRIVER2/FMV/0/RENDER1.STR[0.0]|Sectors:76849-100273|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\0\RENDER1.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:400|ID:DRIVER2/FMV/0/RENDER2.STR[0.0]|Sectors:100431-110367|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\0\RENDER2.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:404|ID:DRIVER2/FMV/0/RENDER3.STR[0.0]|Sectors:110384-122592|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\0\RENDER3.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:408|ID:DRIVER2/FMV/0/RENDER4.STR[0.0]|Sectors:122745-127849|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\0\RENDER4.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:412|ID:DRIVER2/FMV/0/RENDER5.STR[0.0]|Sectors:128025-135385|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\0\RENDER5.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:416|ID:DRIVER2/FMV/0/RENDER6.STR[0.0]|Sectors:135556-147636|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\0\RENDER6.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:420|ID:DRIVER2/FMV/0/RENDER7.STR[0.0]|Sectors:147796-155204|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\0\RENDER7.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:424|ID:DRIVER2/FMV/0/RENDER8.STR[0.0]|Sectors:155297-160353|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\0\RENDER8.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:428|ID:DRIVER2/FMV/0/RENDER9.STR[0.0]|Sectors:160518-172838|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\0\RENDER9.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:432|ID:DRIVER2/FMV/1/RENDER10.STR[0.0]|Sectors:172998-183942|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\1\RENDER10.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:436|ID:DRIVER2/FMV/1/RENDER11.STR[0.0]|Sectors:184129-190065|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\1\RENDER11.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:440|ID:DRIVER2/FMV/1/RENDER12.STR[0.0]|Sectors:190220-193900|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\1\RENDER12.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:444|ID:DRIVER2/FMV/1/RENDER13.STR[0.0]|Sectors:194091-205979|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\1\RENDER13.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:448|ID:DRIVER2/FMV/1/RENDER14.STR[0.0]|Sectors:206152-219816|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\1\RENDER14.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:452|ID:DRIVER2/FMV/1/RENDER15.STR[0.0]|Sectors:219983-227407|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\1\RENDER15.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:456|ID:DRIVER2/FMV/9/RENDER97.STR[0.0]|Sectors:227574-242342|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\9\RENDER97.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:459|ID:DRIVER2/FMV/9/RENDER99.STR[0.0]|Sectors:242514-243410|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\9\RENDER99.STR[0.0].wav
+[INFO] Filename:.\DRIVER2cd1.iso|Sector size:2352|Sector count:274493|First sector offset:0
+[INFO] #:463|ID:DRIVER2/FMV/9/RENDER96.STR[0.0]|Sectors:243938-274194|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:18900|Bits/Sample:4|Sector stride:16|Disc speed:2x
+[INFO] Format: wav
+[INFO] Volume: 100%
+[INFO] Filename: DRIVER2\FMV\9\RENDER96.STR[0.0].wav
